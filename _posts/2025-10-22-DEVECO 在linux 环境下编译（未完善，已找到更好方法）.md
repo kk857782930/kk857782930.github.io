@@ -1,4 +1,4 @@
-# 2025-10-22-DEVECO 在linux 环境下编译（未完善，已找到）
+# DEVECO 在linux 环境下编译（未完善，已找到）
 
 
 
@@ -143,5 +143,6 @@ kejm@kejm-ubuntu22:~/download$ hvigorw -v
 ````
 sudo apt install -y libgl1-mesa-dev
 ````
+
 
 
